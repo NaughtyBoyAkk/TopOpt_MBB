@@ -1,3 +1,6 @@
+### reference -> Sigmund, O. A 99 line topology optimization code written in Matlab.
+### Structural and Multidisciplinary Optimization, 2014, 21(2): 120-127.
+###
 ### Objective function
 function Objfun(xval::Vector{Float64}, nelx::Int, nely::Int, penal::Float64, rmin::Float64)
     #
